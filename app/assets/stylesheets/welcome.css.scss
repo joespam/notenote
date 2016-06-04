@@ -48,6 +48,10 @@
 	width: 100%;
 	min-height: 400px;
 	display: table;
+	i {
+		font-size: 2em;
+		color: $green;
+	}
 	.callout_inner {
 		display: table-cell;
 		vertical-align: middle;
